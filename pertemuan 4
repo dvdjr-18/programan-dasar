@@ -1,0 +1,8 @@
+#VARIABEL_DINAMIS
+UAS = int(input("masukkan nilai: "))
+if(UAS>=70):
+    print("nilai anda bagus! ")
+elif:(UAS>=50 and UAS < 60):
+    print("nilai aman!")
+else:
+    print("nilaianda kureng!)
