@@ -1,0 +1,4 @@
+ulang =20
+
+for i in range (ulang):
+    print(f"perulangan ke-{i}")
